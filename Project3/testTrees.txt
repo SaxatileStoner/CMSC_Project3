@@ -1,0 +1,15 @@
+A(G(j)(1))(z(5))
+
+d(c(a)(b))(g(e)(f))
+
+s(a)(z)
+
+w
+
+1(2(3))
+
+Multi-Character Data: (A1(G(j)(1))(z(5)))
+
+Missing Open Paren: A(G(j)(1))(z(5)))
+
+Missing Close Paren: (A(G(j)(1)(z(5)))
